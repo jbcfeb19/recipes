@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2242937b-2f27-419b-b240-08c63345a5fd" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b55d1105-55cb-47ca-b5e3-15e041b2675e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/recipeindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipeindex.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,11 +16,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recipeindex.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="665">
               <caret line="74" column="63" selection-start-line="74" selection-start-column="63" selection-end-line="74" selection-end-column="63" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lasagna.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recipeindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="82" column="79" selection-start-line="82" selection-start-column="79" selection-end-line="82" selection-end-column="79" />
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
             </state>
           </provider>
         </entry>
@@ -27,6 +51,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</find>
@@ -40,6 +65,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/tamale.html" />
+        <option value="$PROJECT_DIR$/.idea/tamales.html" />
+        <option value="$PROJECT_DIR$/Lasagna.html" />
+        <option value="$PROJECT_DIR$/recipeindex.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="781" />
+    <option name="width" value="1146" />
+    <option name="height" value="1045" />
+  </component>
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -53,6 +98,20 @@
               <item name="recipes" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipes" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recipes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="Img" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
           </expand>
           <select />
         </subPane>
@@ -60,6 +119,23 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gbtc441008ur\IdeaProjects\recipes" />
+    </key>
+  </component>
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -72,6 +148,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -82,6 +159,8 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,6 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550501651549</updated>
       <workItem from="1550501653409" duration="1816000" />
+<<<<<<< HEAD
       <workItem from="1550515117856" duration="1871000" />
       <workItem from="1550522636223" duration="697000" />
     </task>
@@ -102,23 +182,39 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1550522204785</updated>
+=======
+      <workItem from="1550515117856" duration="5840000" />
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
+=======
+    <option name="totallyTimeSpent" value="7656000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="781" y="0" width="1146" height="1045" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25414366" />
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -126,8 +222,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3310962" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32997763" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -137,6 +238,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/tamales.html" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -239,6 +341,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="74" column="63" selection-start-line="74" selection-start-column="63" selection-end-line="74" selection-end-column="63" />
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/tamales.html" />
+    <entry file="file://$PROJECT_DIR$/Lasagna.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="82" column="79" selection-start-line="82" selection-start-column="79" selection-end-line="82" selection-end-column="79" />
+>>>>>>> fd448c8c87a00b509f6a4859dbffc5fc56ec60e5
         </state>
       </provider>
     </entry>
