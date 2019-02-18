@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b55d1105-55cb-47ca-b5e3-15e041b2675e" name="Default Changelist" comment="" />
+    <list default="true" id="b55d1105-55cb-47ca-b5e3-15e041b2675e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lasagna.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lasagna.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lasagna.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="85">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -107,12 +110,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550501651549</updated>
       <workItem from="1550501653409" duration="1816000" />
-      <workItem from="1550515117856" duration="691000" />
+      <workItem from="1550515117856" duration="1871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2507000" />
+    <option name="totallyTimeSpent" value="3687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="781" y="0" width="1146" height="1045" extended-state="0" />
@@ -151,8 +154,8 @@
     <entry file="file://$PROJECT_DIR$/.idea/tamales.html" />
     <entry file="file://$PROJECT_DIR$/Lasagna.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
