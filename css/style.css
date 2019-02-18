@@ -1,0 +1,79 @@
+body {
+	font-family: 'Antic', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Pacifico', cursive;
+	margin: 40px auto 40px auto;
+}
+
+li.active {
+	font-weight: bold;
+}
+
+.container-fluid {
+	background: rgba(255,255,255,0.7);
+	padding: 10px;
+	border-radius: 10px;
+	margin: 5% auto 5% auto;
+}
+
+body.injera {	
+	background: url("../img/injera-large.jpg") no-repeat fixed center;
+	background-size: 100% 100%; /* h x w */
+}
+
+body.crabcakes {	
+	background: url("../img/crabcakes-large.jpg") no-repeat fixed center;
+	background-size: 100% 100%; /* h x w */
+}
+
+body.wings {	
+	background: url("../img/wings-large.jpg") no-repeat fixed center;
+	background-size: 100% 100%; /* h x w */
+}
+
+body.eggsauce {	
+	background: url("../img/egg-large.jpg") no-repeat fixed center;
+	background-size: 100% 100%; /* h x w */
+}
+
+body.gimbap {	
+	background: url("../img/gimbap-large.jpg") no-repeat fixed center;
+	background-size: 100% 100%; /* h x w */
+}
+
+body.noodles {	
+	background: url("../img/noodles-large.jpg") no-repeat fixed center;
+	background-size: 100% auto; /* h x w */
+}
+
+body.home {	
+	background: url("../img/recipecover.jpg") no-repeat fixed center;
+	background-size: 100% 100%; /* h x w */
+}
+
+h1.home-title {
+	font-family: 'Merriweather', serif;
+	font-size: 77pt;
+}
+
+img {
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar {
+	background-color: #CACFD2;
+	color: black;
+	opacity: 0.9;
+	border-radius: 10px;
+}
+
+.alert {
+	opacity: 0.7;
+}
+
+.flag {
+	border-radius: 0;
+}
